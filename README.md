@@ -2,7 +2,11 @@
 
 A mock of the original website <a href="globo.com">globo.com</a>.
 
-<img src="/assets/my-wallet-usage.gif" />
+<br>
+
+<div align=center style="display:flex; justify-content: center; gap:5%">
+    <img style="width: 50%;" src="/img/globo mockup.png" />
+</div>
 
 ## Technologies
 The following tools and frameworks were used in the construction of the project:<br>
